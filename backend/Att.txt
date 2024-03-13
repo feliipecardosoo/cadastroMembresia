@@ -1,0 +1,5 @@
+Rota POST criada para cadastro de membro;
+
+Falta informar oq o usuario vai passar, tipagem, etc;
+
+conexao com o banco de dados!
